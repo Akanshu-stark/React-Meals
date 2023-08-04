@@ -1,0 +1,20 @@
+.meal{
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+
+}
+.description{
+    font-style: italic;
+    font-weight: 200;
+}
+.price {
+    font: inherit;
+    font-weight: bold;
+    font-size: large;
+    color: #8a2b06;
+    padding: 0.30rem;
+}
+.form{
+    padding-top: 1rem;
+}
