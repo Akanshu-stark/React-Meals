@@ -35,9 +35,18 @@ React Meals is a web application that serves as a food delivery app, allowing us
 
 To run React Meals locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/react-meals.git`
-2. Navigate to the project directory: `cd react-meals`
-3. Install the dependencies: `npm install`
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Akanshu-stark/React-Meals.git
+   cd react-meals
+   ```
+
+2. Install the required dependencies:
+
+   ```bash
+   npm install
+   ```
 
 ## Usage
 
